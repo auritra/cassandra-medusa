@@ -50,7 +50,7 @@ setuptools.setup(
         'ffwd>=0.0.2',
         'lockfile>=0.12.2',
         'pyOpenSSL==22.0.0',
-        'cryptography<=35.0,>=2.5',
+        'cryptography>=2.5,<=43.0.1',
         'pycryptodome>=3.9.9',
         'retrying>=1.3.3',
         'parallel-ssh==2.2.0',
