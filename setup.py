@@ -56,7 +56,7 @@ setuptools.setup(
         'parallel-ssh==2.2.0',
         'ssh2-python==1.0.0',
         'ssh-python>=0.8.0',
-        'requests==2.22.0',
+        'requests==2.32.2',
         'protobuf==4.24.3',
         'grpcio==1.58.0',
         'grpcio-health-checking==1.58.0',
