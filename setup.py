@@ -72,7 +72,7 @@ setuptools.setup(
         'boto3>=1.28.38',
         'gcloud-aio-storage==8.3.0',
         'azure-core==1.29.4',
-        'azure-identity==1.14.0',
+        'azure-identity==1.16.1',
         'azure-storage-blob==12.17.0'
     ],
     entry_points={
