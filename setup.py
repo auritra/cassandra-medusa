@@ -68,7 +68,7 @@ setuptools.setup(
         'botocore>=1.13.27',
         'dnspython>=2.2.1',
         'asyncio==3.4.3',
-        'aiohttp==3.8.5',
+        'aiohttp==3.10.2',
         'boto3>=1.28.38',
         'gcloud-aio-storage==8.3.0',
         'azure-core==1.29.4',
